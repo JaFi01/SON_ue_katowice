@@ -1,5 +1,5 @@
-"# SON_ue_katowice" 
-# Narzędzie: ChatGPT #
+# SON UE Katowice #
+## Narzędzie: ChatGPT ##
 **Zastosowanie**: Tworzenie automatycznego generatora treści marketingowej dla produktów.
 Dlaczego to narzędzie?
 ChatGPT, oparty na architekturze GPT-3.5, jest potężnym modelem językowym, zdolnym do generowania wysokiej jakości treści. Jego elastyczność pozwala na zastosowanie w różnych dziedzinach, w tym w marketingu.
